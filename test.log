@@ -1,0 +1,18 @@
+INFO:root:TEST CASE #1 (RF1)
+INFO:root:The test passes with debugger :)
+INFO:root:end TEST CASE
+INFO:root:TEST CASE #2 (RF2)
+INFO:root:before if
+INFO:root:PASS
+INFO:root:TEST CASE #3 (RF3)
+INFO:root:TEST CASE passed using debugger :)
+INFO:root:end TEST CASE
+INFO:root:TEST CASE #4 (RF4)
+INFO:root:The names are: [1, 2]
+ERROR:root:FAIL
+WARNING:root:Returns the IDs, not the Names
+INFO:root:end TEST CASE
+INFO:root:TEST CASE #6 (RNF#1)
+INFO:root:PASS
+INFO:root:Users added
+INFO:root:TEST CASE #7 (RNF#2)
